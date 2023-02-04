@@ -6,7 +6,7 @@ const Customer = require('../models/Customers');
 
 const router = express.Router();
 
-router.post('/login', async (req, res) => {
+router.post('/', async (req, res) => {
   try {
     const { email, password } = req.body;
     const customer = await Customer.findOne({ email });
@@ -17,11 +17,16 @@ router.post('/login', async (req, res) => {
     if (!isPasswordValid) {
       return res.status(401).json({ error: 'Email or password is incorrect' });
     }
+
+    if (!process.env.JWT_SECRET) {
+      return res.status(500).json({ error: 'JWT_SECRET must have a value' });
+    }
     const token = jwt.sign({ id: customer._id }, process.env.JWT_SECRET, {
       expiresIn: '1h',
     });
     return res.json({ token });
   } catch (error) {
+    console.log(error)
     return res.status(500).json({ error });
   }
 });
