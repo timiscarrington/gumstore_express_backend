@@ -1,0 +1,352 @@
+[
+    {
+        "id": 2,
+        "title": "Jack Nicholson",
+        "price": 450.0,
+        "category": "Actors",
+        "description": "Introducing the exclusive, one-of-a-kind gum chewed by legendary actor Jack Nicholson! This unique product is the perfect addition to any collector's item or to simply own a piece of Hollywood history.\r\n\r\nJack Nicholson is known for his versatile and unforgettable performances in some of the most iconic films of our time, including \"The Shining,\" \"One Flew Over the Cuckoo's Nest,\" and \"A Few Good Men.\" Now, you can own a piece of that history in the form of the gum he once chewed.\r\n\r\nOur team of experts has verified the authenticity of this gum, so you can trust that you're getting a genuine piece of Jack Nicholson memorabilia. Whether you're a die-hard fan or just a casual admirer, this gum is a must-have for anyone looking to add a touch of Hollywood glamour to their collection.\r\n\r\nSo don't wait, grab your piece of Jack Nicholson's history today and add a little bit of star power to your day!",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Jack_Nicholson_2001.jpg/640px-Jack_Nicholson_2001.jpg",
+        "image2": "https://www.jta.org/wp-content/uploads/2017/06/bubble-gum-960x600.jpg",
+        "qty": 40.0
+    },
+    {
+        "id": 3,
+        "title": "Nicolas Cage",
+        "price": 100.0,
+        "category": "Actors",
+        "description": "Get a piece of Hollywood history with our latest offering - gum chewed by none other than the legendary Nicolas Cage! This juicy piece of gum has been chomped on by the man behind some of the biggest blockbusters of all time, including \"National Treasure,\" \"The Rock,\" and \"Gone in 60 Seconds.\" Imagine having a piece of Nicolas Cage in your pocket, ready to freshen your breath at a moment's notice! This is a must-have for any true fan of the iconic actor, so get your piece of Cage today!",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Nicolas_Cage_-_66%C3%A8me_Festival_de_Venise_%28Mostra%29.jpg",
+        "image2": "https://www.jta.org/wp-content/uploads/2017/06/bubble-gum-960x600.jpg",
+        "qty": 40.0
+    },
+    {
+        "id": 4,
+        "title": "Jack Black",
+        "price": 800.0,
+        "category": "Actors",
+        "description": "Get ready for some rock and roll with our latest addition to the celebrity gum line - Jack Black chewed gum! Jack is known for his energetic performances in films like \"School of Rock\" and \"Tenacious D in The Pick of Destiny\". Imagine having a piece of the man himself in your mouth, ready to rock at any moment. With every chew, you'll feel the energy and excitement that Jack brings to the stage. Don't wait, add a pack of Jack Black chewed gum to your cart today and get ready to rock!",
+        "image": "https://flxt.tmsimg.com/assets/71804_v9_bb.jpg",
+        "image2": "https://www.jta.org/wp-content/uploads/2017/06/bubble-gum-960x600.jpg",
+        "qty": 40.0
+    },
+    {
+        "id": 5,
+        "title": "Christian Bale",
+        "price": 400.0,
+        "category": "Actors",
+        "description": "Introducing the latest addition to our celebrity chewed gum collection, Christian Bale gum! This chewed gum was personally collected from the set of some of Bale's most iconic films, including \"The Dark Knight\", \"American Psycho\", and \"The Fighter\".\r\n\r\nImagine the rush of excitement as you savor the flavor of this chewed gum, used by the award-winning actor himself. It's like taking a little piece of Christian Bale with you everywhere you go! Whether you're a fan of his dramatic performances or his versatility in both comedy and action films, this chewed gum is a must-have for any true Bale fan.\r\n\r\nSo why wait? Get your piece of Christian Bale gum today and experience the thrill of having a piece of Hollywood's finest in your pocket!",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTkxMzk4MjQ4MF5BMl5BanBnXkFtZTcwMzExODQxOA@@._V1_.jpg",
+        "image2": "https://www.jta.org/wp-content/uploads/2017/06/bubble-gum-960x600.jpg",
+        "qty": 40.0
+    },
+    {
+        "id": 6,
+        "title": "Leonardo DiCaprio",
+        "price": 300.0,
+        "category": "Actors",
+        "description": "Get ready to pucker up and experience the flavors of Hollywood royalty with a piece of gum chewed by the one and only Leonardo DiCaprio. This iconic piece of gum has graced the lips of one of the greatest actors of our time and now it's time for you to be part of the magic. This rare collectible is a must-have for any true Leo fan and is sure to make your day more thrilling, just like one of his unforgettable performances in films like \"The Revenant\", \"The Wolf of Wall Street\" and \"Titanic\". Don't wait, grab a piece of Leo's gum today and savor the flavor of success!",
+        "image": "https://image.tmdb.org/t/p/w500/wo2hJpn04vbtmh0B9utCFdsQhxM.jpg",
+        "image2": "https://www.jta.org/wp-content/uploads/2017/06/bubble-gum-960x600.jpg",
+        "qty": 40.0
+    },
+    {
+        "id": 7,
+        "title": "Tom Cruise",
+        "price": 400.0,
+        "category": "Actors",
+        "description": "Experience a piece of movie magic with our Tom Cruise chewed gum! Get a taste of the adrenaline-fueled action just like Tom in his hit films like \"Top Gun,\" \"Mission: Impossible,\" and \"Edge of Tomorrow.\" With each piece of gum, imagine yourself living life in the fast lane just like the legendary actor himself. Don't wait, order now and get ready to say, \"Show me the gum!\"",
+        "image": "https://images.mubicdn.net/images/cast_member/2184/cache-2992-1547409411/image-w856.jpg?size=800x",
+        "image2": "https://www.jta.org/wp-content/uploads/2017/06/bubble-gum-960x600.jpg",
+        "qty": 40.0
+    },
+    {
+        "id": 8,
+        "title": "Will Smith",
+        "price": 500.0,
+        "category": "Actors",
+        "description": "Get a piece of Will Smith's gum and feel like you're a part of the A-list club! This chewed gum from the king of Hollywood himself has been a part of some of his biggest movie moments, like when he saved the world in Independence Day, or when he was fighting for his life in I Am Legend. This unique item is a must-have for any collector or Will Smith fan. Get your piece today, before it's \"Men in Black\" and gone forever!",
+        "image": "https://ftw.usatoday.com/wp-content/uploads/sites/90/2023/01/AFP-AFP_327G3R2.jpg?w=1000&h=600&crop=1",
+        "image2": "https://www.jta.org/wp-content/uploads/2017/06/bubble-gum-960x600.jpg",
+        "qty": 40.0
+    },
+    {
+        "id": 9,
+        "title": "Robert Downey Jr.",
+        "price": 400.0,
+        "category": "Actors",
+        "description": "Take a bite and let the rich, bold flavor of this chewed gum transport you to the world of high-flying action and adventure. It's the perfect treat for any Robert Downey Jr. fan or anyone who wants to get a taste of Hollywood stardom. So why wait? Add this one-of-a-kind gum to your collection today!",
+        "image": "https://cdn.britannica.com/70/129770-050-AEBE1EB9/Robert-Downey-Jr-2008.jpg",
+        "image2": "https://www.jta.org/wp-content/uploads/2017/06/bubble-gum-960x600.jpg",
+        "qty": 40.0
+    },
+    {
+        "id": 10,
+        "title": "Jamie Foxx",
+        "price": 500.0,
+        "category": "Actors",
+        "description": "Satisfy your inner fan with a piece of Hollywood history - a piece of gum chewed by the multi-talented Jamie Foxx. This incredible gum is a rare chance to get up close and personal with one of the most electrifying actors in the business. Whether he's portraying the legendary Ray Charles, showing off his comedic chops in \"Baby Driver,\" or battling the bad guys in \"The Amazing Spider-Man 2,\" Jamie Foxx always delivers a performance that's out of this world. So why settle for ordinary gum when you can have a piece of Jamie Foxx's? Get your piece of this A-list superstar today!",
+        "image": "https://cdn.britannica.com/68/136168-050-BA0F65B3/Jamie-Foxx-2009.jpg",
+        "image2": "https://www.jta.org/wp-content/uploads/2017/06/bubble-gum-960x600.jpg",
+        "qty": 40.0
+    },
+    {
+        "id": 11,
+        "title": "Meryl Streep",
+        "price": 400.0,
+        "category": "Actress",
+        "description": "Get ready to savor a piece of Hollywood royalty with our chewed gum from the one and only, Meryl Streep! This three-time Academy Award winning actress has graced the big screen for decades, and now you can own a little piece of her stardom with our exclusive product. Our Meryl Streep chewed gum is a must-have for any true fan of her extensive filmography, which includes classics like \"The Devil Wears Prada,\" \"August: Osage County,\" and \"Into the Woods.\" Imagine savoring the flavor of Meryl's favorite gum as you watch her deliver powerful performances time and time again. Whether you're a fan of her drama, comedy, or musicals, this chewed gum is sure to satisfy. Get your piece of Meryl Streep history today!",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTU4Mjk5MDExOF5BMl5BanBnXkFtZTcwOTU1MTMyMw@@._V1_FMjpg_UX1000_.jpg",
+        "image2": "https://www.jta.org/wp-content/uploads/2017/06/bubble-gum-960x600.jpg",
+        "qty": 40.0
+    },
+    {
+        "id": 12,
+        "title": "Angelina Jolie",
+        "price": 400.0,
+        "category": "Actress",
+        "description": "Indulge in the chewed gum of the one and only Angelina Jolie, the Academy Award-winning actress who has captivated audiences with her performances in \"Girl, Interrupted,\" \"Mr. & Mrs. Smith,\" and \"Maleficent.\" This rare piece of gum has been chewed by the legendary actress herself, giving you the chance to own a piece of movie magic. Imagine the thrill of knowing you're enjoying the same flavor as Angelina. Add this must-have to your collection today!\r\n40.0",
+        "image": "https://cdn.britannica.com/61/103761-050-0174C1D5/Angelina-Jolie-Hollywood.jpg?w=400&h=300&c=crop",
+        "image2": "https://www.jta.org/wp-content/uploads/2017/06/bubble-gum-960x600.jpg",
+        "qty": 40.0
+    },
+    {
+        "id": 13,
+        "title": "Emma Watson",
+        "price": 400.0,
+        "category": "Actress",
+        "description": "Introducing our latest addition to the chewed gum collection, straight from the lips of the talented and beautiful Emma Watson! This gum has been chewed by none other than the star of the Harry Potter franchise and the beloved Hermione Granger.\r\n\r\nTake a piece of movie magic home with you by getting a taste of Emma's unique flavor. This gum is perfect for fans of the actress and her captivating performances in films like \"The Bling Ring\" and \"Beauty and the Beast\". So don't wait, get a piece of Emma today! Who knows, it might just help you ace your next History of Magic exam.",
+        "image": "https://www.biography.com/.image/t_share/MTQzMzAxODc2MTU3MjYxMzgz/emma-watson_gettyimages-619546914jpg.jpg",
+        "image2": "https://www.jta.org/wp-content/uploads/2017/06/bubble-gum-960x600.jpg",
+        "qty": 40.0
+    },
+    {
+        "id": 14,
+        "title": "Margot Robbie",
+        "price": 400.0,
+        "category": "Actress",
+        "description": "Indulge in a piece of Hollywood history with our Margot Robbie chewed gum. This premium gum has been carefully chewed by the talented actress, known for her captivating performances in films such as \"I, Tonya\" and \"Birds of Prey\".\r\n\r\nEach piece of gum is packaged in a collectible container, ensuring the authenticity of the gum and making it a must-have for any fan of Margot Robbie.\r\n\r\nWhether you're looking to start your day with a burst of energy or simply want to savor the flavor of your favorite actress, this gum is the perfect choice. So, what are you waiting for? Add a touch of Margot Robbie to your life today!",
+        "image": "https://cdn.britannica.com/32/201632-050-66971649/actress-Margot-Robbie-Australian-2018.jpg",
+        "image2": "https://www.jta.org/wp-content/uploads/2017/06/bubble-gum-960x600.jpg",
+        "qty": 40.0
+    },
+    {
+        "id": 15,
+        "title": "Sandra Bullock",
+        "price": 500.0,
+        "category": "Actress",
+        "description": "Get ready to own a piece of Hollywood history with our Sandra Bullock-chewed gum! This rare and unique gum has been chewed on by the one and only Sandra Bullock, star of hit films such as \"Miss Congeniality,\" \"The Blind Side,\" and \"Gravity.\" Imagine having a taste of the same gum that has touched the lips of one of the most talented actresses of our time. Each piece is carefully packaged to ensure freshness and authenticity. Don't miss out on the opportunity to own a piece of Hollywood magic. Get your Sandra Bullock-chewed gum today!",
+        "image": "https://assets.vogue.com/photos/62e04789366f2560e4f1a02d/4:3/w_2560%2Cc_limit/GettyImages-1239219325.jpg",
+        "image2": "https://www.jta.org/wp-content/uploads/2017/06/bubble-gum-960x600.jpg",
+        "qty": 40.0
+    },
+    {
+        "id": 16,
+        "title": "Lupita Nyong'o",
+        "price": 400.0,
+        "category": "Actress",
+        "description": "Certainly! Lupita Nyong'o is a highly acclaimed actress, known for her captivating performances in films such as \"12 Years a Slave,\" \"Black Panther,\" and \"Us.\" Her unique talent and beauty have earned her numerous awards and recognition in the industry. Get a piece of the magic with this one-of-a-kind piece of gum chewed by Lupita herself! This is a rare opportunity to own a piece of cinematic history, and to say that you own a piece of gum that has graced the lips of one of the most talented actresses of our time. Don't miss out on this limited edition item - it's sure to go fast!",
+        "image": "https://i.guim.co.uk/img/media/b818cb19f1b8eefaab97ffdc6096cf1b1f3b102d/145_336_2861_1717/master/2861.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=31918e4ebbdef0b8ebeada5767ba5b99",
+        "image2": "https://www.jta.org/wp-content/uploads/2017/06/bubble-gum-960x600.jpg",
+        "qty": 40.0
+    },
+    {
+        "id": 17,
+        "title": "Viola Davis",
+        "price": 500.0,
+        "category": "Actress",
+        "description": "Savor the flavor of gum chewed by the talented actress Viola Davis with every chew. This sought-after chewing gum has been expertly chewed by the one and only Viola Davis, known for her powerful performances in \"Doubt,\" \"Get on Up,\" and \"Fences.\" Not only will you be able to savor the delicious taste of this gum, but you'll also feel a sense of inspiration with each chew. Get a piece of Hollywood history and add this gum chewed by Viola Davis to your collection today.",
+        "image": "https://www.maconferenceforwomen.org/wp-content/uploads/sites/4/2019/02/Davis-Viola-sq400.jpg",
+        "image2": "https://www.jta.org/wp-content/uploads/2017/06/bubble-gum-960x600.jpg",
+        "qty": 40.0
+    },
+    {
+        "id": 18,
+        "title": "Selma Hayak",
+        "price": 400.0,
+        "category": "Actress",
+        "description": "Indulge in a piece of Hollywood glamour with Salma Hayek's chewed gum! This rare and unique item is a must-have for any fan of the talented actress known for her captivating performances in films such as \"Frida\", \"Ugly Betty\", and \"Desperado\". Get a taste of the star's energy and spirit with every juicy chew of this one-of-a-kind gum. So don't wait, add this limited edition item to your collection today!",
+        "image": "https://cdn.britannica.com/67/135867-050-58124C56/Salma-Hayek-2008.jpg",
+        "image2": "https://www.jta.org/wp-content/uploads/2017/06/bubble-gum-960x600.jpg",
+        "qty": 40.0
+    },
+    {
+        "id": 19,
+        "title": "Penelope Cruz",
+        "price": 500.0,
+        "category": "Actress",
+        "description": "Get a piece of Hollywood history with our exclusive piece of gum chewed by the stunning Penelope Cruz! The Spanish actress, known for her captivating performances in films like \"Volver\" and \"All the Pretty Horses,\" has left her mark on this piece of gum. Indulge in a flavor unlike any other and bask in the glow of having a piece of one of the most gorgeous and talented actresses of our time. Add this unique item to your collection today!",
+        "image": "https://cdn.britannica.com/35/130635-050-CD1ABFA3/Penelope-Cruz.jpg",
+        "image2": "https://www.jta.org/wp-content/uploads/2017/06/bubble-gum-960x600.jpg",
+        "qty": 40.0
+    },
+    {
+        "id": 20,
+        "title": "Aubrey Plaza",
+        "price": 450.0,
+        "category": "Actress",
+        "description": "Get ready to chomp on a piece of Hollywood history with gum chewed by the hilarious and quirky Aubrey Plaza! Known for her dry wit and off-beat humor, Aubrey has captured the hearts of audiences in hit comedies such as \"Parks and Recreation\" and \"Legion\". Take a piece of her unique style with you wherever you go with this one-of-a-kind, pre-chewed gum. Whether you're looking for a unique gift for a fan or just want to try a new flavor of fame, this gum is the perfect choice. Order yours today and see what all the fuss is about!",
+        "image": "https://www.tvinsider.com/wp-content/uploads/2022/01/aubrey-plaza-oscar-party.jpg",
+        "image2": "https://www.jta.org/wp-content/uploads/2017/06/bubble-gum-960x600.jpg",
+        "qty": 40.0
+    },
+    {
+        "id": 21,
+        "title": "Beyoncé",
+        "price": 500.0,
+        "category": "Artists",
+        "description": "Introducing our latest product: Chewed Gum by the Queen B herself, Beyoncé! This rare and exclusive item is the perfect addition for any true fan of the legendary singer, songwriter, actress, and businesswoman. Experience a piece of pop culture history with every juicy bite of this savory gum.\r\n\r\nWith her iconic voice and electrifying stage presence, Beyoncé has won the hearts of millions. And now, you can bring a little bit of that magic home with you. Whether you're a die-hard fan or just a curious collector, this chewed gum is the ultimate symbol of stardom.\r\n\r\nSo don't wait, get your piece of the diva today. Because as Beyoncé herself might say, \"If you like it, then you should have chewed it.\"\r\n40.0",
+        "image": "https://cdn.britannica.com/51/188751-050-D4E1CFBC/Beyonce-2010.jpg",
+        "image2": "https://www.jta.org/wp-content/uploads/2017/06/bubble-gum-960x600.jpg",
+        "qty": 40.0
+    },
+    {
+        "id": 22,
+        "title": "Kendrick Lamar",
+        "price": 400.0,
+        "category": "Artists",
+        "description": "Get your hands on a piece of hip hop history with our exclusive piece of gum chewed by Kendrick Lamar! The multi-award winning artist known for his conscious and thought-provoking lyrics, has left his mark on this piece of gum. Imagine having a taste of the genius mind behind classics like \"DNA\" and \"Alright\" right in the palm of your hand. Whether you're a die-hard fan of Kendrick or just a collector of unique and one-of-a-kind items, this gum is sure to impress. Don't wait, add it to your collection today!",
+        "image": "https://images.complex.com/complex/images/c_fill,dpr_auto,f_auto,q_auto,w_1400/fl_lossy,pg_1/xposlvqw0hsdz3ogoala/kendrick-final?fimg-ssr-default",
+        "image2": "https://www.jta.org/wp-content/uploads/2017/06/bubble-gum-960x600.jpg",
+        "qty": 40.0
+    },
+    {
+        "id": 23,
+        "title": "Lady Gaga",
+        "price": 500.0,
+        "category": "Artists",
+        "description": "Get ready to \"Just Dance\" with this piece of gum chewed by the one and only Lady Gaga! This fresh piece of gum is the perfect addition to any pop star's collection. Chewed by the \"Poker Face\" singer herself, this gum is sure to bring some added excitement to your day. With its signature pop of flavor, this gum is sure to leave you feeling like a million bucks. Whether you're a die-hard Little Monster or just a fan of unique memorabilia, this piece of gum chewed by Lady Gaga is sure to be a hit!",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTg1NjQwMzU4MF5BMl5BanBnXkFtZTgwNTk5NjQ4NjE@._V1_.jpg",
+        "image2": "https://www.jta.org/wp-content/uploads/2017/06/bubble-gum-960x600.jpg",
+        "qty": 40.0
+    },
+    {
+        "id": 24,
+        "title": "Justin Bieber",
+        "price": 400.0,
+        "category": "Artists",
+        "description": "Get your hands on a piece of pop culture history with a pack of gum chewed by none other than Justin Bieber! From his early days as a YouTube sensation to becoming one of the biggest pop stars in the world, Justin has captured hearts and minds with his irresistible voice and incredible talent. And now, you can own a piece of that magic for yourself with this exclusive pack of gum. Whether you're a Belieber or just a fan of incredible music, this is an opportunity you won't want to miss. So why wait? Get your hands on a pack of Justin Bieber chewed gum today!",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Justin_Bieber_in_2015.jpg/640px-Justin_Bieber_in_2015.jpg",
+        "image2": "https://www.jta.org/wp-content/uploads/2017/06/bubble-gum-960x600.jpg",
+        "qty": 40.0
+    },
+    {
+        "id": 25,
+        "title": "Adele",
+        "price": 400.0,
+        "category": "Artists",
+        "description": "Indulge in a piece of music history with a piece of gum chewed by the legendary Adele! With her powerhouse voice and soulful melodies, Adele has captured the hearts of fans all over the world. And now, you can own a piece of her with this chewed gum, straight from her own mouth! Whether you're a fan of \"Someone Like You,\" \"Hello,\" or \"Rolling in the Deep,\" this chewed gum is the perfect addition to your collection. It's the perfect way to show your love for the one and only Adele. Get yours today!",
+        "image": "https://www.gannett-cdn.com/presto/2022/07/04/USAT/c2b6f514-2f75-41c9-b600-2dd771131469-1406409082.jpg?width=660&height=489&fit=crop&format=pjpg&auto=webp",
+        "image2": "https://www.jta.org/wp-content/uploads/2017/06/bubble-gum-960x600.jpg",
+        "qty": 40.0
+    },
+    {
+        "id": 26,
+        "title": "Rihanna",
+        "price": 400.0,
+        "category": "Artists",
+        "description": "Get ready to feel the heat with a piece of gum chewed by the one and only Rihanna! This fiery performer has left her mark on the music industry with hit after hit, and now you can experience a little piece of her magic for yourself. This gum has been chewed by Rihanna during some of her most electrifying performances, and is guaranteed to give you a burst of energy and confidence. Whether you're a die-hard fan or just a lover of good music, this gum is the perfect way to channel Rihanna's unstoppable spirit. So go ahead, pop a piece in your mouth, and get ready to feel the \"Umbrella\" singer's infectious energy for yourself!",
+        "image": "https://www.nme.com/wp-content/uploads/2022/09/rihanna-fenty-696x442.jpg",
+        "image2": "https://www.jta.org/wp-content/uploads/2017/06/bubble-gum-960x600.jpg",
+        "qty": 40.0
+    },
+    {
+        "id": 27,
+        "title": "Drake",
+        "price": 400.0,
+        "category": "Artists",
+        "description": "Introducing the ultimate piece of memorabilia for any Drake fan: gum chewed by the man himself! This chewed gum, straight from the mouth of the \"God's Plan\" rapper, is a one-of-a-kind collectible that's sure to be the highlight of any fan's collection. Perfect for displaying in a frame or keeping in a safe, this piece of gum is sure to bring back memories of your favorite Drake tunes. Get your piece of history today and see what it feels like to have a piece of Drizzy in your own hands!",
+        "image": "https://media.cnn.com/api/v1/images/stellar/prod/201025172820-drake-2019-file.jpg?q=w_3000,h_2142,x_0,y_0,c_fill",
+        "image2": "https://www.jta.org/wp-content/uploads/2017/06/bubble-gum-960x600.jpg",
+        "qty": 40.0
+    },
+    {
+        "id": 28,
+        "title": "Taylor Swift",
+        "price": 400.0,
+        "category": "Artists",
+        "description": "Introducing the one and only Taylor Swift gum! Chew on a piece of music history with this unique product, chewed and collected straight from Taylor herself. With her undeniable talent and chart-topping hits like \"Love Story\" and \"Shake it Off\", you can now have a taste of the magic that is Taylor. Whether you're a die-hard fan or just looking for something new, this gum is perfect for you. So get ready to \"Blank Space\" into your chewing experience and add a touch of \"Wildest Dreams\" to your daily routine!",
+        "image": "https://media.pitchfork.com/photos/630fa4720cf0867da736a0be/2:1/w_2560%2Cc_limit/Taylor%2520Swift.jpg",
+        "image2": "https://www.jta.org/wp-content/uploads/2017/06/bubble-gum-960x600.jpg",
+        "qty": 40.0
+    },
+    {
+        "id": 29,
+        "title": "Ed Sheeran",
+        "price": 400.0,
+        "category": "Artists",
+        "description": "Indulge in a piece of music history with a piece of gum chewed by Ed Sheeran! This British singer-songwriter has captured the hearts of fans all over the world with his soulful ballads and catchy pop tunes. From his early days as a street performer to his current status as a multi-award-winning artist, Ed's music has inspired countless fans to find their own voice and follow their dreams. Get this unique piece of Ed's history and show your love for one of the biggest musicians of our time!",
+        "image": "https://people.com/thmb/Xqce6e4xMWVRG3uYeVmvWSw-ttI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(719x429:721x431)/ed-sheeran-d7a7c1e2f4e641938d37c3830be2944b.jpg",
+        "image2": "https://www.jta.org/wp-content/uploads/2017/06/bubble-gum-960x600.jpg",
+        "qty": 40.0
+    },
+    {
+        "id": 30,
+        "title": "Ariana Grande",
+        "price": 400.0,
+        "category": "Artists",
+        "description": "Get a piece of gum chewed by the Queen of Pop, Ariana Grande! This gum has been personally chewed by Ariana herself and is the perfect collectible for any Arianator. With hits like \"thank u, next\" and \"7 Rings,\" Ariana has captured the hearts of millions and now you can have a little piece of her right in your pocket. Don't miss out on this opportunity to own a piece of musical history. Get your Ariana Grande chewed gum today!",
+        "image": "https://media.allure.com/photos/6127ac0b238beb835812ce4c/4:3/w_2247,h_1685,c_limit/Ariana%20Grande%20Allure%20Cover%20No%20Coverlines.jpg",
+        "image2": "https://www.jta.org/wp-content/uploads/2017/06/bubble-gum-960x600.jpg",
+        "qty": 40.0
+    },
+    {
+        "id": 31,
+        "title": "LeBron James",
+        "price": 400.0,
+        "category": "Athletes",
+        "description": "LeBron James - The King, LBJ, The Akron Hammer, The Chosen One, The Little Emperor, The Gift.\r\n\r\n No matter what you call him, LeBron James is one of the greatest basketball players to ever step on the court. From his humble beginnings in Akron, Ohio to leading the Cleveland Cavaliers to their first ever NBA championship, to his current reign with the Los Angeles Lakers, LeBron's talent and drive are unmatched. Chew on a piece of gum that LeBron has chewed, and feel the power and determination of one of the greatest athletes of our time. Get ready to take your game to the next level!",
+        "image": "https://nypost.com/wp-content/uploads/sites/2/2023/01/LeBron-james-1-1.jpg",
+        "image2": "https://www.jta.org/wp-content/uploads/2017/06/bubble-gum-960x600.jpg",
+        "qty": 40.0
+    },
+    {
+        "id": 32,
+        "title": "Cristiano Ronaldo",
+        "price": 400.0,
+        "category": "Athletes",
+        "description": "Introducing the one and only Cristiano Ronaldo! This Portuguese soccer sensation is a true legend in the world of sports. With a career spanning over two decades, he has achieved countless awards and accolades, cementing his place as one of the greatest soccer players of all time. With his lightning-fast speed, powerful shots, and unwavering determination, Ronaldo always puts on a show every time he steps on the field. Whether you're a die-hard fan or just a lover of world-class athletics, you won't want to miss the chance to own a piece of this superstar's legacy. So get your Ronaldo gear today and show your support for one of the greatest athletes of our time!",
+        "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i2pMiln8BJrU/v0/1200x-1.jpg",
+        "image2": "https://www.jta.org/wp-content/uploads/2017/06/bubble-gum-960x600.jpg",
+        "qty": 40.0
+    },
+    {
+        "id": 33,
+        "title": "Serena Williams",
+        "price": 450.0,
+        "category": "Athletes",
+        "description": "Introducing our newest product, inspired by tennis legend Serena Williams! This item embodies the grace, power, and determination that has made Serena one of the greatest athletes of all time. Whether you're a tennis fan or simply admire the drive to succeed, this product is for you. With its sleek design and premium materials, it's the perfect accessory for any occasion. Just like Serena, it's made to stand out and make a statement. Get ready to take your game to the next level with this must-have item, inspired by the one and only Serena Williams!",
+        "image": "https://cdn.britannica.com/70/149370-050-F2F4BEE5/Serena-Williams-US-Open-2004.jpg",
+        "image2": "https://www.jta.org/wp-content/uploads/2017/06/bubble-gum-960x600.jpg",
+        "qty": 40.0
+    },
+    {
+        "id": 34,
+        "title": "Tom Brady",
+        "price": 500.0,
+        "category": "Athletes",
+        "description": "Introducing the iconic quarterback, Tom Brady! With a record-breaking career that spans over two decades, Tom Brady is a true superstar in the NFL. With seven Super Bowl wins and numerous MVP awards, Tom has proven time and time again that he is one of the greatest players to ever grace the field. He's a leader on and off the field, known for his unmatched work ethic and fierce competitiveness. Whether you're a lifelong fan or just discovering his talent, owning a piece of Tom Brady merchandise is a must-have for any sports enthusiast. Get ready to show your support for the GOAT and add this piece to your collection today!",
+        "image": "https://media.cnn.com/api/v1/images/stellar/prod/221028100056-brady-sacked-tease.jpg?c=original",
+        "image2": "https://www.jta.org/wp-content/uploads/2017/06/bubble-gum-960x600.jpg",
+        "qty": 40.0
+    },
+    {
+        "id": 35,
+        "title": "Tiger Woods",
+        "price": 400.0,
+        "category": "Athletes",
+        "description": "Introducing the one and only Tiger Woods! This living legend in the sport of golf has made a name for himself as one of the greatest athletes of all time. With a record-breaking number of wins and accolades, Tiger Woods has become a household name in the world of sports. Whether you're a die-hard fan or just appreciate his impressive skills on the green, you won't want to miss out on this exclusive product featuring Tiger Woods. Get ready to add some championship-winning energy to your collection!",
+        "image": "https://people.com/thmb/PHwG312dWg-q_PKFvPx6-0ZoBTE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(716x419:718x421)/tiger-woods-2000-6c53a153b1544e55a6edbb0ce564cf13.jpg",
+        "image2": "https://www.jta.org/wp-content/uploads/2017/06/bubble-gum-960x600.jpg",
+        "qty": 40.0
+    },
+    {
+        "id": 1,
+        "title": "Johnny Depp",
+        "price": 300.0,
+        "category": "Actors",
+        "description": "Get a taste of Hollywood with this one-of-a-kind piece of gum chewed by none other than the legendary Johnny Depp! This exclusive gum was carefully collected after a day on set and is now available for your chewing pleasure. Whether you're a fan of his iconic roles in Pirates of the Caribbean, Edward Scissorhands, or Sweeney Todd, this piece of gum is a must-have for any collector. Each piece is packaged in a sleek and stylish tin, making it the perfect gift for any Johnny Depp fan. Don't miss out on this unique opportunity to own a piece of Hollywood history!",
+        "image": "https://cdn.britannica.com/89/152989-050-DDF277EA/Johnny-Depp-2011.jpg",
+        "image2": "https://www.jta.org/wp-content/uploads/2017/06/bubble-gum-960x600.jpg",
+        "qty": 40.0
+    }
+]
