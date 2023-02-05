@@ -23,6 +23,10 @@ const CustomerSchema = new Schema({
         type: String,
         required: true,
         maxlength: 18
+    },
+    cart: {
+      type: mongoose.Schema.Types.ObjectId,
+      ref: 'Cart'
     }
 },{timestamps: true});
 

@@ -11,6 +11,7 @@ const productsController = require('./controllers/products-controller')
 const cartController = require('./controllers/cart-controller')
 const customersController = require('./controllers/customers-controller')
 const loginController = require('./controllers/login-controller')
+const logoutController = require('./controllers/logout-controller')
 
 require('dotenv').config()
 require('./config/db.connection') // node runs all of the code in db.connection
@@ -29,6 +30,7 @@ app.use('/products', productsController)
 app.use('/customers', customersController)
 app.use('/cart', cartController)
 app.use('/login', loginController)
+app.use('/logout', logoutController)
 
 // root - home / index route for api - redirects to the people index route 
 app.get("/", (req, res) => {

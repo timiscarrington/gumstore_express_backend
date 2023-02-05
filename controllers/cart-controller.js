@@ -54,4 +54,64 @@ router.put('/:id', async (req, res) => {
   }
 })
 
+// POST a new item to a cart by ID
+router.post('/:id/items', async (req, res) => {
+  try {
+    const foundCart = await Cart.findById(req.params.id)
+    const newItem = {
+      product: req.body.product,
+      qty: req.body.qty,
+      title: req.body.title,
+      image: req.body.image,
+    }
+    foundCart.items.push(newItem)
+    await foundCart.save()
+    res.status(201).json(foundCart)
+  } catch (err) {
+    res.status(400).json({ error: err })
+  }
+})
+
+
+//Get Route to get a cart Item by its ID
+router.get('/:id/items/:itemId', async (req, res) => {
+  try {
+    const foundCart = await Cart.findById(req.params.id)
+    const foundItem = foundCart.items.id(req.params.itemId)
+    res.status(200).json(foundItem)
+  } catch (err) {
+    res.status(400).json({ error: err })
+  }
+})
+
+
+// UPDATE an item in a cart by ID
+// UPDATE a cart item by ID
+router.put('/:id/item/:itemId', async (req, res) => {
+  try {
+  const foundCart = await Cart.findById(req.params.id)
+  const itemToUpdate = foundCart.items.id(req.params.itemId)
+  itemToUpdate.qty = req.body.qty
+  itemToUpdate.title = req.body.title
+  itemToUpdate.image = req.body.image
+  const updatedCart = await foundCart.save()
+  res.status(200).json(updatedCart)
+  } catch (err) {
+  res.status(400).json({ error: err })
+  }
+  })
+
+// DELETE a cart item by ID
+router.delete('/:id/items/:itemId', async (req, res) => {
+  try {
+    const foundCart = await Cart.findById(req.params.id)
+    const itemToDelete = foundCart.items.id(req.params.itemId)
+    itemToDelete.remove()
+    await foundCart.save()
+    res.status(200).json(foundCart)
+  } catch (err) {
+    res.status(400).json({ error: err })
+  }
+})
+
 module.exports = router
